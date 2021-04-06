@@ -18,8 +18,8 @@ Members:
 Name: Thomas Yap
 Student ID: 44930534
 
-Name: 
-Student ID: 
+Name: Michelle Wang
+Student ID: 45374627
 
 Name: 
 Student ID: 
