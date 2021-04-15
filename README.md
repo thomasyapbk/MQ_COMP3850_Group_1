@@ -24,8 +24,8 @@ Student ID: 45374627
 Name: Zoe Fong
 Student ID: 45348243
 
-Name: 
-Student ID: 
+Name: Christopher Rigor
+Student ID: 45183783
 
 Name: 
 Student ID: 
