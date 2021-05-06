@@ -27,5 +27,5 @@ Student ID: 45348243
 Name: Christopher Rigor
 Student ID: 45183783
 
-Name: 
-Student ID: 
+Name: Rick Kalouche
+Student ID: 45656754
